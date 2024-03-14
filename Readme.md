@@ -6,8 +6,6 @@ I Have made This loan_Appproval Prediction Model using Linear, Decission Trees .
 * It Figures out The different methods and picked the best ones to guess if people will pay back loans .
 * To build machine learning models able to predict Loan_status based on certain criteria.
 * To analyze and compare models performance in order to choose the best model.
-*  In Which To making the Model such as Decission Trees and Linear Regression Machine learning Model used
-   and Hopefully it has 95 Percent Accuracy scores.
 
 
 ![image](https://github.com/VishalMurya/Loan-Data_Analysis/assets/146605505/b51edf00-56af-4c42-8f22-0d5c6635d168)
