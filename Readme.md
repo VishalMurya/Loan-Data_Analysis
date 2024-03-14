@@ -1,6 +1,6 @@
 # LOAN APPROVAL (Data Analysis)
 ## About Project
-I have made this loan_AppprovalPrediction Model using Linear, Decission Trees . The main objectives of this case study are as follows:
+I Have made This loan_Appproval Prediction Model using Linear, Decission Trees . The main objectives of this case study are as follows:
 
 * To apply data preprocessing and preparation techniques in order to obtain clean data (EDA).
 * To build machine learning models able to predict Loan_status based on certain criteria.
